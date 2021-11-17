@@ -16,7 +16,7 @@ Grant update on sklad_tikhomirov.* to tih_user2  with grant option;
 
 ЗАЙТИ ПОД tih_user1
 
-set password=11111
+set password=5252525
 
 select * from TTN_tikhomirov;
 
